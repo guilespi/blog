@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://guilespi.github.com/guilespi
-title: int 3h
-subtitle: Interruption based blogging
+url: http://guilespi.github.com
+title: Interrupted
+subtitle: Unordered thoughts about programming, engineering and dealing with the people in the process.
 author: Guillermo Winkler
 simple_search: http://google.com/search
-description: Unordered thoughts about programming, engineering and dealing with the people trying to do that.
+description: Unordered thoughts about programming, engineering and dealing with the people in the process
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /guilespi
+root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public/guilespi
