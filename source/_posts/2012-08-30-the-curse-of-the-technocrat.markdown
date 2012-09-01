@@ -4,6 +4,10 @@ title: "The curse of the technocrat"
 date: 2012-08-30 22:05
 comments: true
 categories: 
+- engineering
+- programming
+- politics
+
 ---
 I'm almost always mad when I think about the country [being led by improvisers](http://www.emol.com/noticias/economia/2012/06/18/546251/uruguay-espera-socio-privado-tras-salida-de-inversionistas-argentinos-de-aerolinea-pluna.html) without the basic skills to run a hot-dog stand. Prioritizing _politics_ over technical knowledge should have ended when [Natural Philosophy](http://plato.stanford.edu/entries/newton-philosophy/) came to town.
 

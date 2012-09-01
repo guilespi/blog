@@ -4,6 +4,8 @@ title: "The hardest thing to grasp when learning how to program"
 date: 2012-08-29 19:54
 comments: true
 categories: 
+- programming
+
 ---
 Today I saw an old Quora post asking [what's the hardest concept to understand](http://www.quora.com/What-are-the-most-common-hard-concepts-to-understand-when-learning-how-to-program) when learning how to program.
 
