@@ -15,7 +15,7 @@ It's a shame, firing someone that's not pulling his own weight is almost as impo
 
 Letting someone go is a traumatic process for everyone involved, and being something uncommon, almost no one has experiences to share.
 
-Since I've fired a few people over the years, I thought I should share a few things I've learnt.
+Since I've fired a few people over the years, I thought I should share a few things I've learned.
 
 The problem won't disappear by itself
 -------------------------------------

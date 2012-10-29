@@ -65,7 +65,7 @@ lousy developers create more bugs, write unmantainable code and will make your c
 Beware, more expensive doesn't always equal better, there are some clever incompetents who are fond of asking more money when the market's hot. 
 Never hire by price means salary is not your main deciding factor.
 
-5 You shall never ever hire in behalf of others
+5 You shall never ever hire on behalf of others
 ---
 
 If your company has more than 10 employees, you are not hiring by yourself.
