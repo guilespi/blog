@@ -10,11 +10,16 @@ footer: true
 
 
 {% img left /images/blog/guilespimateo.jpg 200 300 'Me and my dog Mateo' 'Me with my dog Mateo' %} 
-I'm a Software Engineer from Uruguay, I lead the product and engineering team at [inConcert](http://www.inconcertcc.com "inConcert").
-For the last 20+ years I've been trying to learn something about software development, and I'm not really sure whether I'm close yet or not.
+I'm a Software Engineer from Uruguay, for many yeas I lead the Product and Engineering team at [inConcert](http://www.inconcertcc.com "inConcert").
+Now I'm pursuing some personal adventures and doing consulting and contracting for interesting projects.
 
-There's a saying that if you wanna learn something, write a book about it, so this is my shot.
+There's a saying that if you wanna learn something you should write a book about it, so this is my shot at Software Development.
 
-I hope to write more the days I'm mad, nothing worth of note has come from love and happiness.
+I hope to write more the days I'm mad, since nothing worth of note has come from love and happiness.
 
-If you find this blog too quiet for your taste, I'm also quiet on [twitter](http://www.twitter.com/guilespi)
+You can find some of the stuff I've shipped [here][1]
+
+_Or follow me on [Twitter][2]_
+
+[1]: http://resume.guillermowinkler.com
+[2]: http://www.twitter.com
