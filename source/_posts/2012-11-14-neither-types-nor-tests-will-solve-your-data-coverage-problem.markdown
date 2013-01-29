@@ -4,6 +4,10 @@ title: "Neither types nor tests will solve your data coverage problem"
 date: 2012-11-14 22:24
 comments: true
 categories: 
+- programming
+- testing
+- types
+- computer science
 ---
 I just watched the Strangeloop talk titled [Types vs. Tests: An Epic Battle][1] from Amanda Laucher and Paul Snively. 
 As Amanda says it's a discussion many of us have had in the past, I used to talk about it with [fedesilva][2], 

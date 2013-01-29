@@ -16,8 +16,8 @@ description: Unordered thoughts about programming, engineering and dealing with 
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /guilespi/atom.xml
-subscribe_email:
+subscribe_rss: /atom.xml
+subscribe_email: guillermo.winkler@gmail.com
 # RSS feeds can list your email address if you like
 email:
 

@@ -22,4 +22,4 @@ You can find some of the stuff I've shipped [here][1]
 _Or follow me on [Twitter][2]_
 
 [1]: http://resume.guillermowinkler.com
-[2]: http://www.twitter.com
+[2]: http://www.twitter.com/guilespi
