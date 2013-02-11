@@ -40,7 +40,7 @@ As Agile positions itself more about process and less about people, there's goin
 
 Fortunately they're easy to spot if you come across one of them, they almost always say:
 
-+ I wan't to be an architect
++ I want to be an architect
 + I don't want to be a tester
 + I don't want to program forever, it's just a step in my career.
 
