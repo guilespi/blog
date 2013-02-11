@@ -90,7 +90,7 @@ together the native controls but not necessarily is used to create all the UI.
 The most common example is the TabBar and NavigationBar in IOS, plugins for those already exist, and lets you design a more native experience than the one 
 you would get using only HTML.
 
-{% img center /images/blog/phonegapplugin.png 280 480 'Phonegap TabBar and NavigationBar Plugins' %} 
+{% img center /images/blog/phonegapplugins.png 280 480 'Phonegap TabBar and NavigationBar Plugins' %} 
 
 Notice the `Back` button in there, it's just a custom button with the back text. If you want to create an arrow like back button you'll need to go
 down the [same path][11] as if you were doing Objective-C IOS development.
