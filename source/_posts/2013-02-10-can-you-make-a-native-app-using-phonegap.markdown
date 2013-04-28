@@ -12,7 +12,7 @@ categories:
 
 I've been looking at Phonegap since it started, long before [Adobe bought it][12] in a desperate attempt to destroy it.
 
-Up unitl now, I never got the chance to make something with it, but always had the doubt how good or bad the applications you could create were.
+Up until now, I never got the chance to make something with it, but always had the doubt how good or bad the applications you could create were.
 
 Last week I had an opportunity to take a look under the hood, and made the source code available [on GitHub][10].
 
@@ -199,6 +199,9 @@ If you want to debug javascript, you'll certainly end up using `alert` and `cons
 
 Be ready to waste some of the time you gained by choosing Javascript doing print based debugging.
 
+**Update**
+_Raymond Camden pointed out in the comments that [a better approach to debugging exists][17], specially with Safari and IOS6_
+
 ** Conclusion **
 
 Tools are picked for the team, so that's what you should think about when choosing or not to pursue the Phonegap path. If you already have members on your team 
@@ -230,4 +233,4 @@ _And don't forget to follow me on [twitter][14]_
 [14]: http://www.twitter.com/guilespi
 [15]: http://people.apache.org/~pmuellr/weinre/docs/latest/
 [16]: http://phonegap.com/2011/05/18/debugging-phonegap-javascript/
-
+[17]: http://www.raymondcamden.com/index.cfm/2013/1/21/Did-you-know--Safari-Remote-Debugging-and-PhoneGap
