@@ -10,7 +10,7 @@ footer: true
 
 
 {% img left /images/blog/guilespimateo.jpg 200 300 'Me and my dog Mateo' 'Me with my dog Mateo' %} 
-I'm a Software Engineer from Uruguay, for many yeas I lead the Product and Engineering team at [inConcert](http://www.inconcertcc.com "inConcert").
+I'm a Software Engineer from Uruguay, for many years I lead the Product and Engineering team at [inConcert](http://www.inconcertcc.com "inConcert").
 Now I'm pursuing some personal adventures and doing consulting and contracting for interesting projects.
 
 There's a saying that if you wanna learn something you should write a book about it, so this is my shot at Software Development.
