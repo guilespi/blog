@@ -4,8 +4,8 @@ title: "Decompiling Clojure I"
 date: 2014-04-13 17:19
 comments: true
 categories: 
-- clojure
-- compilers
+- Clojure
+- Compilers
 - JVM
 ---
 
