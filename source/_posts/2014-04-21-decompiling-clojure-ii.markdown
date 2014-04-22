@@ -331,7 +331,7 @@ Stay tuned to see it working on the JVM.
 
 Meanwhile, [I'm guilespi][25] on Twitter.
 
-[1]: blog.guillermowinkler.com/blog/2014/04/13/decompiling-clojure-i/
+[1]: http://blog.guillermowinkler.com/blog/2014/04/13/decompiling-clojure-i/
 [2]: https://github.com/clojure/clojure
 [3]: http://dev.clojure.org/display/community/JIRA+workflow
 [4]: https://github.com/Bronsa/CinC
