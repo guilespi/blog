@@ -4,8 +4,8 @@ title: "Real Life Clojure Application"
 date: 2013-04-20 17:56
 comments: true
 categories: 
-- clojure
-- programming
+- Clojure
+- Programming
 ---
 When a language is going through its maturity process, there's always the need for sample code and applications to look at, design patterns, 
 coding guidelines, best libraries, you name it, you usually get those looking at the source code of others. 

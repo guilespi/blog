@@ -4,9 +4,9 @@ title: "Decompiling Clojure II, The Compiler"
 date: 2014-04-21 01:03
 comments: true
 categories: 
-- Clojure
-- Compilers
-- Jvm
+- clojure
+- compilers
+- jvm
 ---
 This is the second post in the Decompiling Clojure series, [in the first post][1] I showed what Clojure looks like in bytecode.
 

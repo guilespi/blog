@@ -4,9 +4,9 @@ title: "Zipkin distributed tracing using Clojure"
 date: 2013-11-28 13:05
 comments: true
 categories: 
-- clojure
-- zipkin
-- distributed systems
+- Clojure
+- Zipkin
+- Distributed systems
 ---
 When you have a system with many moving parts it's usually difficult trying to understand which one of those pieces is the culprit, 
 say for instance your home page is taking 3 seconds to render and you're losing customers, what the hell is going on?

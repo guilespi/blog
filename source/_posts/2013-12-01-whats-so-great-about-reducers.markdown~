@@ -4,7 +4,7 @@ title: "What's so great about Reducers?"
 date: 2013-12-01 13:25
 comments: true
 categories: 
-- Clojure
+- clojure
 ---
 This post is about Clojure reducers, but what makes them great are the ideas behind the implementation, which may be portable to other languages.
 
